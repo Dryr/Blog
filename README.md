@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/Dryr/Dryr/edit/master/READ
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### My first post
+
+[First post](/Blog/post)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
